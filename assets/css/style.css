@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.font-google {
+    font-family: 'Poppins', sans-serif;
+}
+
+.spasi {
+    padding: 50px 10%;
+}
+
+.h1-white{
+    font-family: 'Poppins', sans-serif;
+    padding: 50px 10%;
+    font-size: 3rem;
+    color: black;
+}
